@@ -1,3 +1,6 @@
+## Disclaimer
+This project was developed based on the BRAVE Data Engineer project structure. The final dbt models, tests, and pipeline implementation were completed in my own project branch.
+
 ## Project Overview
 
 This project is focused on designing and implementing data pipelines using dbt Core to aggregate and store key metrics for an e-commerce platform. The goal is to enable efficient analysis and reporting across several critical areas:
